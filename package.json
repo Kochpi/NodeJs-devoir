@@ -1,5 +1,5 @@
 {
-  "name": "node-js-devoir",
+  "name": "js-devoir",
   "version": "1.0.0",
   "description": "",
   "license": "ISC",
@@ -18,5 +18,14 @@
   },
   "devDependencies": {
     "jsdoc": "^4.0.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kochpi/NodeJs-devoir.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Kochpi/NodeJs-devoir/issues"
+  },
+  "homepage": "https://github.com/Kochpi/NodeJs-devoir#readme"
 }
